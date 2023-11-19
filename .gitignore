@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+### IntelliJ IDEA ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+
+# Exclude build and .idea folders
+out/
+build/
+
+# Exclude .iml and .ipr files
+*.iml
+*.ipr
+
+# Exclude .idea folder
+.idea/
+
+# Exclude Gradle files
+.gradle/
+build/
+
+
