@@ -51,7 +51,7 @@ public class Main{
             }
         }
 
-        System.out.println("Thread for symbol '" + symbol + "': Max occurrences = " + maxCount + ", Text = " + maxText);
+        System.out.println("Символ '" + symbol + "': Встречается  = " + maxCount + ", Текст = " + maxText);
     }
     public static void main(String[] args) {
         Thread generatetTextThread = new Thread(() -> {
